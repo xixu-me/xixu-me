@@ -1,1 +1,1 @@
-![Xi Xu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xixu-me)
+![Xi Xu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xixu-me)
